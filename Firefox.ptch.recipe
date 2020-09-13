@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Move Firefox package into testing</string>
 		<key>Identifier</key>
-		<string>au.com.suncorp.ptch.Firefox</string>
+		<string>com.honestpuck.ptch.Firefox</string>
 		<key>Input</key>
 		<dict></dict>
 		<key>MinimumVersion</key>

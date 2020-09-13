@@ -5,7 +5,7 @@
 		<key>Description</key>
 		<string>Move Firefox package from testing to production</string>
 		<key>Identifier</key>
-		<string>au.com.suncorp.prod.Firefox</string>
+		<string>com.honestpuck.prod.Firefox</string>
 		<key>Input</key>
 		<dict>
 			<key>package</key>

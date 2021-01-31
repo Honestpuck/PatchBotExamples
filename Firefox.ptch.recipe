@@ -19,6 +19,8 @@
 					<string>Firefox</string>
 					<key>patch</key>
 					<string>Mozilla Firefox</string>
+					<key>delta</key>
+					<integer>0</integer>
 				</dict>
 				<key>Processor</key>
 				<string>com.honestpuck.PatchBot/PatchManager</string>
